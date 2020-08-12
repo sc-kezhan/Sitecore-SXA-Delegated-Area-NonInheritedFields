@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XA.Foundation.Multisite.Custom", "XA.Foundation.Multisite.Custom\XA.Foundation.Multisite.Custom.csproj", "{AD1A40AB-1F59-46C7-B532-3ABCCF00EB49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1A40AB-1F59-46C7-B532-3ABCCF00EB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1A40AB-1F59-46C7-B532-3ABCCF00EB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1A40AB-1F59-46C7-B532-3ABCCF00EB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1A40AB-1F59-46C7-B532-3ABCCF00EB49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8685F89B-BA6B-43AF-A418-373BC4F7A6D4}
+	EndGlobalSection
+EndGlobal
